@@ -7,7 +7,7 @@ function Footer() {
     <footer className="h-16 bg-black flex flex-row  justify-center items-center">
         <span className="w-[118px] flex justify-around items-center">
             <a 
-                href=  "https://github.com/0badaE/Portfolio.git" 
+                href=  "https://github.com/0badaE/Portfolio2024" 
                 target="_blank" 
                 className="px-4 cursor-pointer text    text-gray-500 hover:text-white  justify-between"
             > 

@@ -12,7 +12,7 @@ function About(){
                  <span className="text-white font-medium">
                  {" From streamlining payroll with a custom punch-in app (Pouletto Restaurant) to creating an online presence through a QR code E-Menu system and attracting 4,000-12,000 new online monthly visits (Nostos Restaurant)"}
                 
-                </span>, I consistently create impactful solutions. Beyond work, I delve into personal projects like building an AI summarizer using Node.js, constantly honing my skills and pushing boundaries.
+                </span>, I consistently create impactful solutions. Beyond work, I delve into personal projects like building an AI summarizer using Node.js, constantly improving my skills and pushing boundaries.
                 </p>
                 <br/>
                 <p className="text-xl">
