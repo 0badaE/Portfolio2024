@@ -13,4 +13,4 @@ Possible Future Updates:
 1. Add a dark/light mode switch
 
 
-If you, the reader can think of something please let me know. 
+If you, the reader, can think of something please let me know. 
