@@ -25,10 +25,10 @@ function Portfolio(){
         },
         {
             id: 3,
-            name: "Van Renting Front-End",
-            src: photo2,
-            demo: "https://sel-svans.web.app/",
-            code: "https://github.com/0badaE/Sel-sVans.git"
+            name: "Adican Plumbing Business Site",
+            src: photo4,
+            demo: "https://courageous-brioche-e859e5.netlify.app/",
+            code: "https://github.com/0badaE/Adrian-Plumbing"
         },
         {
             id: 4,
@@ -39,17 +39,17 @@ function Portfolio(){
         },
         {
             id: 5,
+            name: "Van Renting Front-End",
+            src: photo2,
+            demo: "https://sel-svans.web.app/",
+            code: "https://github.com/0badaE/Sel-sVans.git"
+        },
+        {
+            id: 6,
             name: "Site for a Startup Business",
             src: photo3,
             demo: "https://elitecleaningservice.ca/",
             code: "https://github.com/0badaE/EliteCleaningService-MyFirstClient"
-        },
-        {
-            id: 6,
-            name: "Restaurant E-menu/Site",
-            src: photo4,
-            demo: "https://celebrated-snickerdoodle-5c2873.netlify.app/",
-            code: "https://github.com/0badaE/NostosResto-MySecondClient"
         },
 
     ]
