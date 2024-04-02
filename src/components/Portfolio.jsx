@@ -13,8 +13,8 @@ function Portfolio(){
             id: 1,
             name: "Full Stack Restaurant Clock In App",
             src: photo1,
-            demo: "https://clock-in-app-6a37d.web.app/",
-            code: "https://github.com/0badaE/clockInAPPP"
+            demo: "https://clinquant-wisp-c7b7db.netlify.app/",
+            code: "https://github.com/0badaE/Clients-Punch-In-App-"
         },
         {
             id: 2,
