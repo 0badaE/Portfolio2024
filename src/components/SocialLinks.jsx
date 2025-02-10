@@ -50,18 +50,18 @@ function SocialLinks() {
             ),
             href: "mailto:ObadaErfanDev@Gmail.com"
         },
-        {
-            id: 5,
-            child: (
-                <>
-                    Resume
-                    <IoMdDocument size={30} />
-                </>
-            ),
-            href: "/Resume.pdf",
-            style: "rounded-br-md",
-            download: true
-        },
+        // {
+        //     id: 5,
+        //     child: (
+        //         <>
+        //             Resume
+        //             <IoMdDocument size={30} />
+        //         </>
+        //     ),
+        //     href: "/Resume.pdf",
+        //     style: "rounded-br-md",
+        //     download: true
+        // },
     ]
     return (
         <div className="hidden lg:flex flex-col top-[35%] left-0 fixed">
